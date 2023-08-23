@@ -1,0 +1,22 @@
+
+-----
+Test: test_osago_1st_bug.py::test_osago_bug_1 (call)
+Start time: 2023-08-23 09:51:10.158324
+Start name method: calculate_to_gos_number
+
+End time: 2023-08-23 09:51:21.880321
+End name method: calculate_to_gos_number
+URL: https://osago.finuslugi.ru/kalkulyator_osago_first#calculation=1&order_id=2092bf52-6a0e-45bf-90c8-6fe774e27fa9&license=%D0%A0867%D0%A1%D0%9047&l_key=86fd7016-ac56-45e3
+
+-----
+
+-----
+Test: test_osago_1st_bug.py::test_osago_bug_1 (call)
+Start time: 2023-08-23 09:51:21.881321
+Start name method: calculate_to_gos_number
+
+End time: 2023-08-23 09:51:42.051323
+End name method: calculate_to_gos_number
+URL: https://osago.finuslugi.ru/kalkulyator_osago_full#calculation=1
+
+-----
