@@ -5,7 +5,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions
 from selenium.webdriver.support.wait import WebDriverWait
 
-experimental_option_browser_stay_opened = False  # False/True Закрытие/нет браузера
+experimental_option_browser_stay_opened = True  # False/True Закрытие/нет браузера
 load_strategy = 'normal'  # normal/eager/none загружать/нет полностью страницы
 path_of_chromedriver = 'C:\\Files\\chromedriver.exe'
 class Base():

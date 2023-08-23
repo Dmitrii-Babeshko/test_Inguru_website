@@ -20,4 +20,4 @@ def test_osago_bug_1():
     osago.calculate_to_gos_number()
     pre_price = Pre_price(driver)
     pre_price.calculating()
-    sleep(10)
+
